@@ -1,0 +1,5 @@
+Rules for creating components in react
+
+Naming convention: 
+First letter capital e.g.(IntroApp)
+A compomnent must return something

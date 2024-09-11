@@ -1,0 +1,32 @@
+/* 
+*{
+    display: none !important;
+} */
+
+/*Header styling goes here*/
+
+
+/*Welcome styling goes here*/
+.welcome{
+    min-height: 200px;
+    background-color: aquamarine;
+}
+
+/* Services styling goes here*/
+.services{
+    min-height: 200px;
+    border: 1px solid greenyellow;
+    background-color: rgb(185, 222, 252);
+}
+
+/*WhyUs styling goes here*/
+.whyus{
+    min-height: 500px;
+    background-color: rgb(255, 127, 159);
+}
+
+/*Footer styling goes here*/
+.footer{
+    min-height: 60px;
+    background-color: rgb(252, 246, 164);
+}

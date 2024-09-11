@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+let username = "Lovely Yomi"
+
+  return(
+    <div className="container">
+      <div className="row">
+
+      <h1>Welcome, Mr. {username} {1+1}</h1>
+
+      <h1>This is my first component</h1>
+      <p>We have seen rule JSX so far</p>
+      </div>
+      <h1>Hello World </h1>
     </div>
-  );
+  )
+
 }
 
 export default App;
